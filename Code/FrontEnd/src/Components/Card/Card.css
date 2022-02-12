@@ -1,0 +1,16 @@
+.card {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  /* background-color: papayawhip; */
+  /* background-color: #f0851a; */
+}
+.card-body {
+  padding: 10px;
+}
+p.card-text {
+  margin-bottom: 3px;
+}
+
+img.card-image-top {
+  padding: 5px;
+}

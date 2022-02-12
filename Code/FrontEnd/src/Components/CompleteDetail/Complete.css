@@ -1,0 +1,19 @@
+.data-container {
+  padding: 12px;
+  align-items: center;
+  height: 100%;
+  background: #c6ffdd;
+  background: -webkit-linear-gradient(to right, #f7797d, #fbd786, #c6ffdd);
+  background: linear-gradient(to right, #f7797d, #fbd786, #c6ffdd);
+}
+h1 {
+  text-align: center;
+  margin: 12px;
+}
+
+html {
+  height: 100%;
+  background: #c6ffdd;
+  background: -webkit-linear-gradient(to right, #f7797d, #fbd786, #c6ffdd);
+  background: linear-gradient(to right, #f7797d, #fbd786, #c6ffdd);
+}

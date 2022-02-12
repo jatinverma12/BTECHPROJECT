@@ -1,0 +1,81 @@
+.projectIntro {
+  height: 200px;
+}
+.fullPage {
+  background: #c6ffdd;
+  background: -webkit-linear-gradient(to right, #f7797d, #fbd786, #c6ffdd);
+  background: linear-gradient(to right, #f7797d, #fbd786, #c6ffdd);
+}
+.avatar-container {
+  padding: 10px 0;
+}
+
+.name {
+  text-align: center;
+  font-size: 25px;
+  font-weight: 400;
+}
+.card {
+  width: 300px;
+  margin: auto;
+}
+.box {
+  margin: auto;
+  background-repeat: no-repeat;
+  border: 2px solid black;
+  width: 170px;
+  height: 170px;
+  border-radius: 50% 50%;
+}
+
+.jv {
+  background-image: url('../../Images/jv.jpg');
+  background-position: 36% 35%;
+}
+.tv {
+  background-image: url('../../Images/Photo_TVVK.jpg');
+  background-position: 50% 25%;
+}
+.manju {
+  background-image: url('../../Images/ManjuKhari.jpg');
+  background-position: 50% 30%;
+}
+.shivam {
+  background-image: url('../../Images/Shivam.jpg');
+  background-position: 50% 9%;
+}
+.arun {
+  background-image: url('../../Images/arun.jpg');
+  background-position: 50% 52%;
+}
+.shubham {
+  background-image: url('../../Images/shubham.jpeg');
+  background-position: 53% 43%;
+}
+.linkContainer {
+  padding: 2rem;
+  align-items: center;
+}
+
+.green {
+  color: green;
+}
+.red {
+  color: red;
+}
+.linkContainer h3 {
+  margin-left: 1rem;
+}
+.form-link {
+  width: 90%;
+  height: 50px;
+  border-radius: 8px !important;
+}
+form {
+  display: flex;
+  align-items: center;
+}
+
+.models-container {
+  padding: 1rem 0;
+}
